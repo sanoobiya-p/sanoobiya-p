@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanoobiya P
 
-### 🎓 BCA Student | 🤖 AI & Data Science | 📊 Data Analytics | 💻 Tech Enthusiast
+###  BCA Student |  AI & Data Science |  Data Analytics |  Tech Enthusiast
 
 I'm a **Bachelor of Computer Applications (BCA) student specializing in Artificial Intelligence & Data Science**, interested in turning data into meaningful insights and building useful digital solutions.
 
@@ -8,43 +8,43 @@ I enjoy working with **Python, data analytics, dashboards, web technologies, aut
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 🎓 BCA — Artificial Intelligence & Data Science
-* 📊 Interested in **Data Analytics & Business Intelligence**
-* 🐍 Learning and working with **Python**
-* 📈 Building interactive dashboards with **Power BI & Streamlit**
-* 🌐 Exploring **Web Development & WordPress**
-* 🤖 Exploring **AI & Automation Tools**
-* 🎨 Interested in creating clean and user-friendly digital experiences
-* 📚 Always learning something new in technology
+*  BCA — Artificial Intelligence & Data Science
+*  Interested in **Data Analytics & Business Intelligence**
+*  Learning and working with **Python**
+*  Building interactive dashboards with **Power BI & Streamlit**
+*  Exploring **Web Development & WordPress**
+*  Exploring **AI & Automation Tools**
+*  Interested in creating clean and user-friendly digital experiences
+*  Always learning something new in technology
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
-### 👩‍💻 Programming & Data
+###  Programming & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### 📊 Data Analytics & Visualization
+###  Data Analytics & Visualization
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
-### 🌐 Web Development
+###  Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
 
-### ⚙️ Tools & Automation
+###  Tools & Automation
 
 * 🟣 Canva
 * 🟣 Gamma
@@ -55,7 +55,7 @@ I enjoy working with **Python, data analytics, dashboards, web technologies, aut
 * 🟣 Microsoft Office
 * 🟣 Git & GitHub
 
-### 🤖 AI Tools
+###  AI Tools
 
 * ChatGPT
 * Claude
@@ -69,9 +69,9 @@ I enjoy working with **Python, data analytics, dashboards, web technologies, aut
 
 ---
 
-# 📂 Featured Projects
+#  Featured Projects
 
-## 📊 ShopSphere — Power BI Dashboard
+##  ShopSphere - Power BI Dashboard
 
 An interactive **retail analytics dashboard** designed to analyze sales performance and business trends.
 
@@ -80,17 +80,17 @@ An interactive **retail analytics dashboard** designed to analyze sales performa
 
 **Key Features:**
 
-* 📌 KPI cards
-* 📈 Sales & profit analysis
-* 🌍 Regional performance
-* 📦 Product/category analysis
-* 📅 Time-based analysis
-* 🔎 Interactive slicers and filters
-* 💡 Business insights
+*  KPI cards
+*  Sales & profit analysis
+*  Regional performance
+*  Product/category analysis
+*  Time-based analysis
+*  Interactive slicers and filters
+*  Business insights
 
 ---
 
-## 📈 NovaMart — Streamlit Analytics Dashboard
+##  NovaMart - Streamlit Analytics Dashboard
 
 An interactive dashboard built using **Python and Streamlit** to analyze retail order data.
 
@@ -99,16 +99,16 @@ An interactive dashboard built using **Python and Streamlit** to analyze retail 
 
 **Key Features:**
 
-* 📊 Interactive visualizations
-* 🔍 Data filtering
-* 📌 KPI metrics
-* 📈 Trend analysis
-* 🌍 Regional analysis
-* 💡 Business insights
+*  Interactive visualizations
+*  Data filtering
+*  KPI metrics
+*  Trend analysis
+*  Regional analysis
+*  Business insights
 
 ---
 
-## 💰 FinanceFlow — Automated Transaction Pipeline
+##  FinanceFlow - Automated Transaction Pipeline
 
 A data-processing project focused on cleaning, transforming, and analyzing financial transaction data.
 
@@ -127,7 +127,7 @@ A data-processing project focused on cleaning, transforming, and analyzing finan
 
 ---
 
-## 🎬 CineStream — OTT Dashboard
+##  CineStream - OTT Dashboard
 
 An interactive OTT content analytics dashboard created with Streamlit.
 
@@ -136,16 +136,16 @@ An interactive OTT content analytics dashboard created with Streamlit.
 
 **Features:**
 
-* 🎬 Movie & TV show analysis
-* 🎭 Genre filtering
-* 🌍 Language filtering
-* 🔞 Age-rating analysis
-* 📊 Interactive charts
-* 🎨 Custom visualization options
+*  Movie & TV show analysis
+*  Genre filtering
+*  Language filtering
+*  Age-rating analysis
+*  Interactive charts
+*  Custom visualization options
 
 ---
 
-## 🛒 Superstore Sales Analysis
+##  Superstore Sales Analysis
 
 A guided data analytics project using retail sales data to identify important business trends.
 
@@ -164,24 +164,24 @@ A guided data analytics project using retail sales data to identify important bu
 
 ---
 
-## 🏠 WorkNest Interiors
+##  WorkNest Interiors
 
 A website created as part of an OJT job simulation program for an interior design business.
 
 **Focus:**
 
-* 🌐 Website development
-* 🎨 UI design
-* 📋 Product presentation
-* 📩 Contact & lead capture
-* 📱 Responsive design
+*  Website development
+*  UI design
+*  Product presentation
+*  Contact & lead capture
+*  Responsive design
 
 **Tools:**
 `Lovable` `HTML` `CSS` `AI Tools`
 
 ---
 
-## 🏥 MEDMIX Hospital Website
+##  MEDMIX Hospital Website
 
 A modern healthcare website concept focused on presenting hospital services and information in a clean and accessible way.
 
@@ -190,21 +190,21 @@ A modern healthcare website concept focused on presenting hospital services and 
 
 ---
 
-## 🪞 LifeLens — AI Smart Health Mirror
+##  LifeLens - AI Smart Health Mirror
 
 A concept project exploring an **AI-powered smart mirror** designed around intelligent health and wellness experiences.
 
 **Focus:**
 
-* 🤖 Artificial Intelligence
-* 🪞 Smart technology
-* 🎨 Product design
-* 💡 Innovation
-* 🌐 Digital experience
+*  Artificial Intelligence
+*  Smart technology
+*  Product design
+*  Innovation
+*  Digital experience
 
 ---
 
-# 🧠 Currently Learning
+#  Currently Learning
 
 ```text
 Python
@@ -222,18 +222,18 @@ Artificial Intelligence
 
 I'm continuously improving my knowledge in:
 
-* 🐍 Advanced Python
-* 📊 Data Analytics
-* 🗄️ SQL & Databases
-* 📈 Power BI & DAX
-* 🤖 Machine Learning
-* 🧠 Artificial Intelligence
-* 🌐 Web Development
-* ⚙️ Automation
+*  Advanced Python
+*  Data Analytics
+*  SQL & Databases
+*  Power BI & DAX
+*  Machine Learning
+*  Artificial Intelligence
+*  Web Development
+*  Automation
 
 ---
 
-# 📌 My Current Focus
+#  My Current Focus
 
 > **Learning → Building → Analyzing → Improving**
 
@@ -241,7 +241,7 @@ I'm currently focused on building practical projects that combine **Data Analyti
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
@@ -253,26 +253,26 @@ I'm currently focused on building practical projects that combine **Data Analyti
 
 ---
 
-# 🌱 My Goal
+#  My Goal
 
 My goal is to grow as a **Data & AI professional** by continuously learning, building real-world projects, and solving practical problems using technology.
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always interested in **learning, collaborating, and working on interesting technology projects**.
 
-📧 Email: *Add your email here*
+ Email: *Add your email here*
 
-💼 LinkedIn: *Add your LinkedIn here*
+ LinkedIn: *Add your LinkedIn here*
 
-🌐 Portfolio: *Add your portfolio here*
+ Portfolio: *Add your portfolio here*
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+   Thanks for visiting my profile!
 </p>
 
 <p align="center">
